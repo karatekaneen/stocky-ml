@@ -1,0 +1,632 @@
+[
+  {
+    "entryPrice": 379.629,
+    "exitPrice": 379.629,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2009-04-13T22:00:00+00:00",
+    "entryDate": "2009-04-14T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2009-04-23T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 450.493,
+    "exitPrice": 445.431,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2009-04-23T22:00:00+00:00",
+    "entryDate": "2009-04-26T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2009-05-14T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 399.876,
+    "exitPrice": 308.765,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2009-05-14T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2009-05-17T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2009-05-25T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 415.061,
+    "exitPrice": 308.765,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2009-05-27T22:00:00+00:00",
+    "entryDate": "2009-05-28T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2009-06-07T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 360,
+    "exitPrice": 580,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2009-07-08T22:00:00+00:00",
+    "entryDate": "2009-07-09T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2009-07-15T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 280,
+    "exitPrice": 300,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2009-07-23T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2009-07-26T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2009-07-29T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 360,
+    "exitPrice": 420,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2009-08-05T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2009-08-06T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2009-09-01T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 520,
+    "exitPrice": 460,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2009-09-23T22:00:00+00:00",
+    "entryDate": "2009-09-30T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2009-10-08T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 420,
+    "exitPrice": 340,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2009-10-29T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2009-11-01T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2009-11-02T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 440,
+    "exitPrice": 460,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2009-11-10T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2009-11-11T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2009-11-25T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 540,
+    "exitPrice": 600,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2009-12-01T23:00:00+00:00",
+    "entryDate": "2009-12-02T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2010-01-03T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 740,
+    "exitPrice": 680,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2010-02-16T23:00:00+00:00",
+    "entryDate": "2010-02-17T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2010-03-10T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 660,
+    "exitPrice": 625,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2010-06-02T22:00:00+00:00",
+    "entryDate": "2010-06-03T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2010-07-13T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 453,
+    "exitPrice": 423,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2010-11-18T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2010-11-21T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2010-12-08T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 382,
+    "exitPrice": 364,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2011-04-19T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2011-04-20T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2011-05-12T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 318,
+    "exitPrice": 245,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2012-01-19T23:00:00+00:00",
+    "entryDate": "2012-01-22T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2012-03-11T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 230,
+    "exitPrice": 215,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2012-04-01T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2012-04-02T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2012-04-03T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 185,
+    "exitPrice": 190,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2012-07-02T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2012-07-03T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2012-07-04T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 145,
+    "exitPrice": 130,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2012-12-26T23:00:00+00:00",
+    "entryDate": "2012-12-27T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2013-01-21T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 127,
+    "exitPrice": 100,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2013-03-26T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2013-03-27T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2013-05-14T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 101,
+    "exitPrice": 110,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2013-05-23T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2013-05-26T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2013-05-27T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 114,
+    "exitPrice": 101,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2013-06-17T22:00:00+00:00",
+    "entryDate": "2013-06-18T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2013-07-07T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 77,
+    "exitPrice": 69,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2013-11-19T23:00:00+00:00",
+    "entryDate": "2013-11-20T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2013-12-17T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 67,
+    "exitPrice": 70,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2013-12-19T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2013-12-22T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2014-01-01T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 71,
+    "exitPrice": 72,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2014-01-06T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2014-01-08T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2014-01-21T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 20,
+    "exitPrice": 18,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2014-04-08T22:00:00+00:00",
+    "entryDate": "2014-04-09T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2014-04-15T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 15,
+    "exitPrice": 30,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2014-05-11T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2014-05-12T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2014-05-18T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 17,
+    "exitPrice": 17,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2014-05-18T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2014-05-21T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2014-06-01T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 20,
+    "exitPrice": 20,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2014-06-01T22:00:00+00:00",
+    "entryDate": "2014-06-02T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2014-06-09T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 16,
+    "exitPrice": 18,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2014-06-12T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2014-06-15T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2014-06-17T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 9.85,
+    "exitPrice": 9.8,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2014-08-10T22:00:00+00:00",
+    "entryDate": "2014-08-11T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2014-08-12T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 8.5,
+    "exitPrice": 11.5,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2014-08-14T22:00:00+00:00",
+    "entryDate": "2014-08-17T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2014-08-25T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 12.5,
+    "exitPrice": 10.1,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2014-08-26T22:00:00+00:00",
+    "entryDate": "2014-08-27T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2014-09-04T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 8.2,
+    "exitPrice": 8.75,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2014-10-27T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2014-10-28T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2014-11-18T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 9.5,
+    "exitPrice": 6.95,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2014-11-26T23:00:00+00:00",
+    "entryDate": "2014-11-27T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2014-12-16T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 7,
+    "exitPrice": 6.55,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2014-12-16T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2014-12-17T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2014-12-22T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 11.15,
+    "exitPrice": 6.7,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2014-12-28T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2014-12-29T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2015-01-11T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 12,
+    "exitPrice": 6.75,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2015-01-12T23:00:00+00:00",
+    "entryDate": "2015-01-13T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2015-01-21T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 6,
+    "exitPrice": 10,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2015-03-04T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2015-03-15T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2015-03-16T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 8,
+    "exitPrice": 9.9,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2015-04-26T22:00:00+00:00",
+    "entryDate": "2015-05-03T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2015-05-04T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 8.5,
+    "exitPrice": 9,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2015-05-04T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2015-05-05T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2015-05-25T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 9.9,
+    "exitPrice": 8.5,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2015-05-26T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2015-05-27T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2015-06-23T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 12.4,
+    "exitPrice": 9,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2015-07-01T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2015-07-02T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2015-07-19T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 11.45,
+    "exitPrice": 9,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2015-07-30T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2015-08-02T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2015-08-10T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 9.1,
+    "exitPrice": 8.4,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2016-10-30T23:00:00+00:00",
+    "entryDate": "2016-10-31T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2016-11-17T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 9.05,
+    "exitPrice": 9.5,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2016-12-26T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2016-12-27T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2017-01-26T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 11,
+    "exitPrice": 7.4,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2017-02-19T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2017-02-20T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2017-02-22T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 8.85,
+    "exitPrice": 6.05,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2017-02-26T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2017-02-27T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2017-04-02T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 9.6,
+    "exitPrice": 7.05,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2017-04-06T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2017-04-09T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2017-04-10T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 7.1,
+    "exitPrice": 11.3,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2017-05-25T22:00:00+00:00",
+    "entryDate": "2017-05-28T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2017-07-31T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 9.95,
+    "exitPrice": 8,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2017-09-17T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2017-09-21T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2017-10-08T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 6.8,
+    "exitPrice": 7.55,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2017-12-03T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2017-12-10T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2017-12-17T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 10.6,
+    "exitPrice": 11.8,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2018-05-15T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2018-05-20T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2018-05-30T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 14,
+    "exitPrice": 14.5,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2018-09-06T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2018-09-09T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2018-10-10T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 10.7,
+    "exitPrice": 9.8,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2019-05-01T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2019-05-02T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2019-06-19T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 10.5,
+    "exitPrice": 10.1,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2019-06-26T22:00:00+00:00",
+    "entryDate": "2019-06-30T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2019-08-06T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 9.05,
+    "exitPrice": 6.9,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2019-11-03T23:00:00+00:00",
+    "entryDate": "2019-11-04T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2019-11-19T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 7.8,
+    "exitPrice": 9.15,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2019-12-17T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2019-12-18T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2020-03-01T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 9.05,
+    "exitPrice": 10,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2020-06-03T22:00:00+00:00",
+    "entryDate": "2020-06-04T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2020-06-11T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 11,
+    "exitPrice": 18.6,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2020-08-06T22:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2020-08-09T22:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2021-09-07T22:00:00+00:00"
+  },
+  {
+    "entryPrice": 22,
+    "exitPrice": 21.4,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2021-10-31T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2021-11-01T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2021-11-28T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 24.2,
+    "exitPrice": 23,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2022-01-04T23:00:00+00:00",
+    "entryDate": "2022-01-06T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "stockId": 150592,
+    "exitDate": "2022-01-25T23:00:00+00:00"
+  },
+  {
+    "entryPrice": 13.8,
+    "exitPrice": 12.1,
+    "stockName": "Wonderful Times Group",
+    "triggerDate": "2023-01-01T23:00:00+00:00",
+    "stockList": "Spotlight Stock Market",
+    "entryDate": "2023-01-02T23:00:00+00:00",
+    "stockId": 150592,
+    "exitDate": "2023-02-20T23:00:00+00:00"
+  }
+]
