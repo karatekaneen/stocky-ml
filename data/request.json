@@ -1,0 +1,44 @@
+{
+  "stock_data": [
+    {
+      "date": "2021-01-01T00:00:00.000Z",
+      "volume": 1000000,
+      "high": 10.0,
+      "low": 9.0,
+      "owners": 50,
+      "close": 9.5,
+      "open": 9.0
+    },
+    {
+      "date": "2021-01-02T00:00:00.000Z",
+      "volume": 2000000,
+      "high": 11.0,
+      "low": 9.5,
+      "owners": 75,
+      "close": 10.5,
+      "open": 10.0
+    }
+  ],
+  "omx_data": [
+    {
+      "date": "2021-01-01T00:00:00.000Z",
+      "volume": 5000000,
+      "high": 100.0,
+      "low": 90.0,
+      "owners": 100,
+      "close": 95.0,
+      "open": 90.0
+    },
+    {
+      "date": "2021-01-02T00:00:00.000Z",
+      "volume": 6000000,
+      "high": 110.0,
+      "low": 95.0,
+      "owners": 125,
+      "close": 105.0,
+      "open": 100.0
+    }
+  ],
+  "trades_this_year": 1000,
+  "days_since_last_trade": 7
+}
