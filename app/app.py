@@ -5,13 +5,14 @@ from typing import List
 import pandas as pd
 from flask import Flask, request, jsonify
 import joblib
-import tensorflow as tf
+
+# import tensorflow as tf
 
 # Load saved model
-model = tf.keras.models.load_model("model/model.h5")
+# model = tf.keras.models.load_model("../out/model")
 
 # Load saved scaler
-scaler = joblib.load("model/scaler.pkl")
+scaler = joblib.load("model/scaler/scaler.pkl")
 
 unwanted_columns = [
     "Unnamed: 0",
@@ -85,11 +86,13 @@ def mirror():
 def predict():
     data = request.json
 
+    print(data)
     try:
         validate_input(data["omx_data"], 201)
         validate_input(data["stock_data"], 201)
     except ValueError as err:
-        print(f"Error: {str(err)}")
+        print(f"Error")
+        # print(f"Error: {str(err)}")
         return str(err), 400
 
     v_merged = parse_data(data)
@@ -98,12 +101,14 @@ def predict():
     original_row = v_merged.tail(1).iloc[-1:]
 
     # Scale the validation data with the same scaler used for the training data
-    original_x = scaler.fit_transform(original_row.values)
+    original_x = scaler.transform(original_row.values)
+
+    return original_x.tolist()  # jsonify({"scaled": original_x})
 
     # # Run predictions on the validation dataset
-    original_pred = model.predict(original_x)
+    # original_pred = model.predict(original_x)
 
-    return jsonify({"prediciton": original_pred[0][0].astype("float64")}), 200
+    # return jsonify({"prediciton": original_pred[0][0].astype("float64")}), 200
 
 
 def parse_data(data) -> pd.DataFrame:
