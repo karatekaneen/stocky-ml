@@ -106,19 +106,19 @@ def predict():
     return original_x.tolist()  # jsonify({"scaled": original_x})
 
 
-
 def parse_data(data) -> pd.DataFrame:
     omx_df = pd.DataFrame(data["omx_data"])
     stock_df = pd.DataFrame(data["stock_data"])
 
     stock_df = add_calculated_columns(stock_df)
-    omx_df = add_calculated_columns(omx_df)
-
-    merged_df = pd.merge(omx_df, stock_df, on="date", suffixes=("_stock", "_omx"))
-    merged_df = merged_df.assign(
+    stock_df = stock_df.assign(
         trades_this_year=data["trades_this_year"],
         days_since_last_trade=data["days_since_last_trade"],
     )
+
+    omx_df = add_calculated_columns(omx_df)
+
+    merged_df = pd.merge(stock_df, omx_df, on="date", suffixes=("_stock", "_omx"))
     merged_df = pd.merge(merged_df, merge_index_stock_df(omx_df, stock_df), on="date")
     merged_df.drop(columns=unwanted_columns, inplace=True, errors="ignore")
 
@@ -247,4 +247,4 @@ def validate_input(lst: List, wanted_length: int) -> None:
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=int(os.environ.get('PORT', 8080)))
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))
