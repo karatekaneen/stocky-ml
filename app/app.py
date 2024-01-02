@@ -111,15 +111,15 @@ def parse_data(data) -> pd.DataFrame:
     stock_df = pd.DataFrame(data["stock_data"])
 
     stock_df = add_calculated_columns(stock_df)
-    stock_df = stock_df.assign(
-        trades_this_year=data["trades_this_year"],
-        days_since_last_trade=data["days_since_last_trade"],
-    )
 
     omx_df = add_calculated_columns(omx_df)
 
     merged_df = pd.merge(stock_df, omx_df, on="date", suffixes=("_stock", "_omx"))
     merged_df = pd.merge(merged_df, merge_index_stock_df(omx_df, stock_df), on="date")
+    merged_df = merged_df.assign(
+        trades_this_year=data["trades_this_year"],
+        days_since_last_trade=data["days_since_last_trade"],
+    )
     merged_df.drop(columns=unwanted_columns, inplace=True, errors="ignore")
 
     return merged_df
