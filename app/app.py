@@ -5,6 +5,7 @@ from typing import List
 import pandas as pd
 from flask import Flask, request, jsonify
 import joblib
+import os
 
 # import tensorflow as tf
 
@@ -82,11 +83,10 @@ def mirror():
     return data, 200
 
 
-@app.route("/predict", methods=["POST", "GET"])
+@app.route("/scale", methods=["POST", "GET"])
 def predict():
     data = request.json
 
-    print(data)
     try:
         validate_input(data["omx_data"], 201)
         validate_input(data["stock_data"], 201)
@@ -105,10 +105,6 @@ def predict():
 
     return original_x.tolist()  # jsonify({"scaled": original_x})
 
-    # # Run predictions on the validation dataset
-    # original_pred = model.predict(original_x)
-
-    # return jsonify({"prediciton": original_pred[0][0].astype("float64")}), 200
 
 
 def parse_data(data) -> pd.DataFrame:
@@ -251,4 +247,4 @@ def validate_input(lst: List, wanted_length: int) -> None:
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", debug=True)
+    app.run(host="0.0.0.0", port=int(os.environ.get('PORT', 8080)))
